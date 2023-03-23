@@ -1,0 +1,2 @@
+D:\С#\Laba_9\Laba_9\obj\Debug\Laba_9.csproj.AssemblyReference.cache
+D:\С#\Laba_9\Laba_9\obj\Debug\Laba_9.csproj.CoreCompileInputs.cache
